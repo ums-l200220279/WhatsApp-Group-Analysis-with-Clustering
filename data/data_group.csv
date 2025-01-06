@@ -1,0 +1,13 @@
+Timestamp,Sender,Message
+‎~ Irvan,System,"Tamooku.com telah ditambahkan
+"
+Webinar Persiapan Karir,System,"“Pemahaman Dasar dan Pemanfaatan IoT di Industri 4.0”
+"
+🕰 Pukul 19.00 WIB,System,"Selesai
+"
+"📅 Event Date: Sabtu, 23 November",System,"Minggu, 24 November 2024
+"
+🗓 28 Desember 2024,System,"12 Januari 2025
+"
+"[print(f""{tanggal} {waktu}",System,"{kegiatan}"") for kegiatan, tanggal, waktu in jadwal_terurut]
+"
